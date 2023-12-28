@@ -1,4 +1,4 @@
-## Artificial Intelligence 7007
+## Artificial Intelligence 7059
 
 - **Category:** Computer Science Elective
   
